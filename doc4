@@ -1,0 +1,34 @@
+<!DOCTYPE html >
+<html lang="fr">
+<head>
+    <meta charset="UTF_8">
+    <meta name="viewport"
+content="width=device-width,initial-scale=1.0">
+   <title>Mon premier site web </title>
+   <style>
+      body {
+           font-family : Arial,sans-serif;
+            background-color :  "#face4ec ";
+            margin :0;
+            padding :  0;
+            color :  #333 
+      }
+          header   {
+             background-color : hsl(320, 77%, 47%) ;
+             e: white;
+             text-alin : center :
+             padding: 30px;
+          }
+          nav  {
+               background-color : #880e4f 
+               padding :15px;
+               text-align :center ;
+          }
+
+
+<
+ <a href="http://ofppt.ma">ofppt</a>
+OFPPT is a profisional training school in  Morocco
+It helps students lear practical and useful skills 
+ I  study
+      
