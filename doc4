@@ -14,7 +14,7 @@ content="width=device-width,initial-scale=1.0">
             color :  #333 
       }
           header   {
-             background-color : hsl(320, 77%, 47%) ;
+             background-color : hsl(320, 45%, 45%) ;
              e: white;
              text-alin : center :
              padding: 30px;
@@ -22,12 +22,12 @@ content="width=device-width,initial-scale=1.0">
           nav  {
                background-color : #880e4f 
                padding :15px;
-               text-align :center ;
+               text-align :center;
           }
-
-
 <
- <a href="http://ofppt.ma">ofppt</a>
+
+html
+<a href="http://ofppt.ma
 OFPPT is a profisional training school in  Morocco
 It helps students lear practical and useful skills 
  I  study

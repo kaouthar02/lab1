@@ -1,0 +1,16 @@
+.new_year > div span {
+
+    width: 6px;
+
+    height: 6px;
+
+    display: block;
+
+    position: absolute;
+
+    opacity: 0;
+
+    -webkit-animation: happy_year_salma 0.5s ease-in-out 9s forwards;
+
+    animatiom: happy_year_salma 0.5s ease-in-out 9s forwards;
+} 
